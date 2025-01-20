@@ -1,6 +1,5 @@
-# myapp
-
-A new Flutter project.
+# Programa Layout
+Tarefa-Atividade 2: Criar um programa que crie um Layout responsivo para a criação futuros aplicativos WEB. Tarefa da Unidade 2  Talento Tech 11 - Desenvolvimento Web
 
 ## Getting Started
 
